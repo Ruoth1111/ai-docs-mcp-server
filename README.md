@@ -227,4 +227,5 @@ Managed in `pyproject.toml`:
 
 ## License
 
-Add your license here.
+MIT License
+
